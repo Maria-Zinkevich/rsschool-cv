@@ -5,7 +5,7 @@ Telegram: @maria_zina
 Email: zinkevichmaryia@gmail.com    
 ***
 ### Summary
-My strengths are hardworking and perseverance which will help me to achieve professional success. At the moment I don’t have any real experience in this sphere but I have training projects on my GitHub account.
+My strengths are hardworking and perseverance. This quallities will help me to achieve professional success in front-end development. At the moment I don’t have any real experience in this sphere but I have training projects on my GitHub account.
 ***
 ### Skills
  - HTML5
@@ -24,7 +24,6 @@ let moveZeros = function (arr) {
   arr.forEach(elem => elem === 0 ? arrayZero.push(elem) : array.push(elem));
   return [...array, ...arrayZero]
 }
-
 ```
 ```
 function findUniq(arr) {
