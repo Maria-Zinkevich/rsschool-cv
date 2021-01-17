@@ -1,10 +1,13 @@
 # Maryia Zinkevich
+***
 ### Contact information:
 Telegram: @maria_zina
+
 Email: zinkevichmaryia@gmail.com
 ***
 ### Summary
 My strengths are hardworking and perseverance which will help me to achieve professional success. At the moment I don’t have any real experience in this sphere but I have training projects on my GitHub account.
+***
 ### Skills
  - HTML5
  - CSS3
@@ -37,16 +40,19 @@ function findUniq(arr) {
   }
 }
 ```
-More code examples on *[Github](https://github.com/Maria-Zinkevich) *and *[Codewars](https://www.codewars.com/users/Maria-Zinkevich)*.
+More code examples on *[Github](https://github.com/Maria-Zinkevich)* and *[Codewars](https://www.codewars.com/users/Maria-Zinkevich)*.
 ***
 ### Education
 Front-end developer
+
 *TeachMeSkills (2021)*
 
 Teacher-psychologist
+
 *BSPU named after Maxim Tank, Minsk (2019)*
 
 Piano teacher, accompanist, ensemble and orchestra member
+
 *State College of Music, Lida (2014)*
 ***
 ### English level
